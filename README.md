@@ -17,6 +17,6 @@ Creamos bitacora de clase Usando MarkDown.
 
 ## Tarea 996 
 
-[Currículum](tarea#996.pdf)
+[Currículum](tarea#996pdf)
 
 28 -08- 25

@@ -47,7 +47,7 @@ Llegando al salón de Clases, el maestro nos comentó que no estaría en Clase u
 
 Mis compañeros habían comentado con anterioridad que el maestro
 no llegaría ese día, por lo que todo el salón no asistió.
-Perdone profe, ya no confiaré en los humanos, no me ponga falta😢🙏🏽
+Perdóneme profe, ya no confiaré en los humanos, no me ponga falta😢🙏🏽
  
 ## Clase 08-09-25
 

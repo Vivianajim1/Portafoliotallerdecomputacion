@@ -1,6 +1,6 @@
 # Tareas
 
-##Primera Clase
+## Primera Clase
 
 11-08-25
 Primer día de clase, el Maestro nos comentó la manera en que calificaría, 30 examen, 30 tareas, 30 proyecto y 10 asistencia.
@@ -16,7 +16,7 @@ Comentamos el concepto de Ingeniería social. Nos registramos en el programa de 
 ## Tarea 997
 
 25-08-25 Creamos bitácora de clase Usando MarkDown.
-Nos dio una guía sobre como poner algunos elementos en nuestro apartado Markdown como por ejemplo, el tamaño que tendrá algún texto depende de cuántos gatitos # se utilicen, también nos muestra como pegar enlaces e imagenes que estan subidas de nuestro repositorio al MARKDOW.
+Nos dio una guía sobre como poner algunos elementos en nuestro apartado Markdown como por ejemplo, el tamaño que tendrá algún texto depende de cuántos gatitos # se utilicen, también nos muestra como pegar enlaces e imágenes que estan subidas de nuestro repositorio al MARKDOW.
 
 
 ## Tarea 998

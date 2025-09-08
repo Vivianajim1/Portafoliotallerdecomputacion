@@ -17,20 +17,17 @@ Comentamos el concepto de Ingeniería social. Realizamos el quiz de Phishing.
 18-08-25
 Nos intentamos registrar en el Programa Github for Education, pero lastimosamente no captaba bien mi información, por lo que intente varias veces subir mis datos y no me logró aceptar😢. Hasta el 3er intento que fue aceptado 1 día después.
 
-## Cuarta Clase
+## Tarea 997
 
 21-08-25
-El maestro nos comentó que debiamos hacer nuestro curriculum en formato word o canva, tenía que estar en español e inglés. Toda la Clase nos la pasamos buscando formatos presentables y pensando en las áreas que somos buenos para agregarlo.
+Creamos bitácora de clase Usando MarkDown.
+Nos dio una guía sobre como poner algunos elementos en nuestro apartado Markdown como por ejemplo, el tamaño que tendrá algún texto depende de cuántos gatitos # se utilicen, también nos muestra como pegar enlaces e imágenes que estan subidas de nuestro repositorio al MARKDOW.
+El maestro igual nos comentó que debiamos hacer nuestro curriculum en formato word o canva, tenía que estar en español e inglés. Toda la Clase nos la pasamos buscando formatos presentables y pensando en las áreas que somos buenos para agregarlo.
 
 ## Quinta Clase
 
 25-08-25
 Llegando al salón de clases, nos dimos cuenta que no servían los aires acondicionados, por lo que el maestro solamente paso lista y nos encargó avanzar con nuestro currículum. 
-## Tarea 997
-
-08-25 Creamos bitácora de clase Usando MarkDown.
-Nos dio una guía sobre como poner algunos elementos en nuestro apartado Markdown como por ejemplo, el tamaño que tendrá algún texto depende de cuántos gatitos # se utilicen, también nos muestra como pegar enlaces e imágenes que estan subidas de nuestro repositorio al MARKDOW.
-
 
 ## Tarea 998
 14-08-25 Realizamos un Quiz, relacionado con el concepto antes investigado "Ingeniería Social", que era tratar de ver si los formatos eran Reales o son para robar información.

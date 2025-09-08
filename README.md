@@ -9,7 +9,7 @@ Nos pidió que lo agregaramos en Discord para poder estar en el grupo de tareas 
 ## Segunda Clase 
 
 14 -08- 25
-Creamos nuestra cuenta de Discord, Git hub y en este mismo nuestro Repositorio llamado "Portafoliotallerdecomputacion" donde subiremos las tareas completadas.
+Creamos nuestra cuenta de Discord, Github y en este mismo nuestro Repositorio llamado "Portafoliotallerdecomputacion" donde subiremos las tareas completadas.
 Comentamos el concepto de Ingeniería social. Realizamos el quiz de Phishing.
 
 ## Tercera Clase

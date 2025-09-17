@@ -11,7 +11,7 @@ Abrir Microsoft Word 2016:
 
 Comprendiendo la Vista Backstage
 Todo Microsoft Office 2016 contiene el área Backstage. El Backstage es donde gestionas, guardas y abres tus archivos. Aquí también puedes imprimir, seleccionar plantillas y realizar otras tareas útiles.
-Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana). ![alt text](image.jpg)
+Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana). ![alt text]()
 
 La primera página que verás es la Página de Información.
 La sección Información muestra el nombre, tamaño y autores de tu archivo. También puedes ver cuándo se realizó el último AutoGuardado. Los AutoGuardados son la red de seguridad de Office. Periódicamente, tu computadora guardará automáticamente tu archivo como un archivo temporal. Si tu computadora se apaga inesperadamente, puedes recuperar parte de tu trabajo a partir de los AutoGuardados
@@ -24,7 +24,7 @@ Opciones del Backstage:
 	•	Guardar como: La primera vez que guardes tu archivo, verás el menú Guardar como. Guarda tu trabajo en tu computadora o en la nube (OneDrive).
 	•	Guardar como Adobe PDF: Te permite guardar el documento como un archivo PDF de Adobe.
 	•	Imprimir: Imprime tu documento desde esta pantalla. Manda tu archivo a la impresora.
-	•	Compartir: Esto es nuevo en Office 2016. Permite enviar tu archivo por correo electrónico, subirlo a un sitio de blog o presentar tu documento en línea. Necesitarás cuentas adicionales para usar estas funciones, como una cuenta de Microsoft (para presentar) o una cuenta de WordPress (para blog). Para esta introducción, no cubriremos estas funciones en profundidad, pero es importante saber que existen.
+	•	Compartir: Esto es nuevo en Office 2016. Permite enviar tu archivo por correo electrónico, subirlo a un sitio de blog o presentar tu documento en línea. 
 	•	Exportar: Permite exportar (o guardar) tu documento como otro tipo de archivo, como PDF.
 	•	Cuenta: Permite cambiar los colores del fondo de Office e iniciar sesión con una cuenta de Microsoft diferente si es necesario.
 	•	Opciones: Da acceso a las funciones avanzadas de Word. Esta opción también permite reorganizar la cinta de opciones u otros ajustes de la aplicación.
@@ -44,19 +44,19 @@ Haz clic en la pestaña Archivo. ![alt text](image.jpg)
 
 Pestaña Archivo (Vista Backstage)
 	•	En la Vista Backstage, haz clic en Opciones.
-	•	En el cuadro de diálogo Opciones de Word, haz clic en Personalizar cinta de opciones (ver Figura 7).
-	•	Haz clic en el botón Nueva pestaña (ver Figura 7).
-	•	Se agregará una Nueva pestaña en la lista de pestañas principales. Debajo de Nueva pestaña, verás que Nuevo grupo ya está seleccionado para ti (ver Figura 7).
-	•	Desde la columna de la izquierda, selecciona un comando de la lista bajo Elegir comandos de para agregarlo al Nuevo grupo (ver Figura 7).
-	•	Haz clic en el botón Agregar (ver Figura 7).
+	•	En el cuadro de diálogo Opciones de Word, haz clic en Personalizar cinta de opciones.
+	•	Haz clic en el botón Nueva pestaña.
+	•	Se agregará una Nueva pestaña en la lista de pestañas principales. Debajo de Nueva pestaña, verás que Nuevo grupo ya está seleccionado para ti.
+	•	Desde la columna de la izquierda, selecciona un comando de la lista bajo Elegir comandos de para agregarlo al Nuevo grupo.
+	•	Haz clic en el botón Agregar.
 El comando se agregará a tu pestaña Nuevo grupo.
-	•	Para renombrar la pestaña o el grupo, haz clic derecho sobre Nueva pestaña o Nuevo grupo (ver Figura 8).
-	•	Haz clic en Cambiar nombre (ver Figura 8).
-	•	Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña (ver Figura 8) ![alt text](image.jpg)
+	•	Para renombrar la pestaña o el grupo, haz clic derecho sobre Nueva pestaña o Nuevo grupo.
+	•	Haz clic en Cambiar nombre.
+	•	Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña. ![alt text](image.jpg)
 
 Barra de herramientas de acceso rápido
 La Barra de herramientas de acceso rápido se encuentra en la parte superior izquierda de la ventana principal de Word, encima de las pestañas Archivo e Inicio. Permite acceder fácilmente a los comandos que usas con frecuencia y se puede personalizar:
-	1.	Haz clic en la flecha desplegable de la Barra de herramientas de acceso rápido (ver Figura 9).
+	1.	Haz clic en la flecha desplegable de la Barra de herramientas de acceso rápido.
 	2.	En el menú desplegable, selecciona los comandos que desees agregar o quitar.
 	3.	Haz clic en Más comandos.
 	4.	En la ventana Personalizar Barra de herramientas de acceso rápido, selecciona un comando de la columna de la izquierda.
@@ -103,7 +103,6 @@ En Word 2016, puedes mostrar tu documento con una de las siguientes cinco vistas
 	•	Diseño de impresión: Muestra todo, desde los márgenes hasta el diseño de la página. Es la vista más común, ya que muestra cómo se verá el documento al imprimirse.
 	•	Modo de lectura: Permite ver cómo se ve tu documento en un formato de dos páginas. Es ideal para comprobar cómo se verá el documento en dispositivos como tabletas. No puedes editar el documento en esta vista.
 	•	Vista de esquema: Muestra el documento en forma de esquema. Puedes ver solo los encabezados sin el texto. Si mueves un encabezado, el texto asociado se mueve con él.
-Nota: No puedes editar mientras estás en Modo de lectura. Sin embargo, puedes hacer algunos ajustes de configuración, como cambiar el fondo a sepia. Aún tienes acceso completo a la Vista Backstage. Para salir del Modo de lectura, presiona la tecla Esc en el teclado
 ![alt text](image.jpg)
 
 CREAR Y GUARDAR UN DOCUMENTO
@@ -159,18 +158,16 @@ Para acceder a la vista previa de impresión:
  La vista previa de impresión en Word 2016 se muestra automáticamente junto con el menú de impresión. Para regresar a la ventana de Word sin imprimir, haz clic en la flecha en la esquina superior izquierda. ![alt text](image.jpg)
 
 Impresión
-Después de crear un documento nuevo, puedes imprimirlo. No es necesario guardar el documento antes de imprimir. Haz clic en la pestaña Archivo y luego en Imprimir. Es el mismo menú que vimos en la lección anterior.
-
+Después de crear un documento nuevo, puedes imprimirlo. No es necesario guardar el documento antes de imprimir. Haz clic en la pestaña Archivo y luego en Imprimir. 
 Desde este menú puedes ajustar las configuraciones de impresión actuales, por ejemplo:
 	•	Especificar cuántas copias necesitas.
 	•	Elegir la porción del documento que deseas imprimir (por ejemplo, una sola página o un párrafo).
-
-Antes de continuar, veamos otras opciones de impresión:
+Veamos otras opciones de impresión:
 	•	Determina cuántas copias imprimir.
 	•	Selecciona la impresora que deseas usar. Verifica que esté seleccionada la impresora correcta si tienes acceso a más de una.
 	•	Si tu impresora lo permite, puedes imprimir a doble cara (impresión dúplex).
 	•	Selecciona el rango de impresión (todas las páginas, páginas específicas o selección). Para imprimir páginas específicas, escribe los números de página en el cuadro Páginas.
-	•Selecciona el tamaño de papel. Normalmente se usa tamaño carta o 8.5" x 11"
+	•Selecciona el tamaño de papel. Normalmente se usa tamaño carta o 8.5" X 11"
    *Puede optar por imprimir varias páginas por hoja. Esto reducirá el tamaño del texto.
 Si su impresora tiene Wi-Fi, asegúrese de que sea la impresora en la que está imprimiendo. ![alt text](image.jpg)
 
@@ -187,7 +184,7 @@ Portapapeles
 El Portapapeles es una función de todos los productos de Microsoft Office. Es un lugar temporal donde se almacena el texto o las imágenes que has copiado o cortado.
 Para ver lo que está almacenado en el portapapeles:
 	1.	Haz clic en la pestaña Inicio.
-	2.	Haz clic en el botón de la esquina derecha * del grupo Portapapeles. Aparecerá el portapapeles ![alt text](image.jpg)
+	2.	Haz clic en el botón de la esquina derecha > del grupo Portapapeles. Aparecerá el portapapeles ![alt text](image.jpg)
 
 RESALTAR Y CAMBIAR LA FUENTE
 
@@ -268,6 +265,32 @@ Los siguientes comandos se pueden usar en su teclado para navegar dentro de Micr
 | Una página hacia arriba o hacia abajo    | REPÁG o AVPÁG     |
 | Al final izquierdo o derecho de la linea actual   | Inicio o fin      |
 | Al primer o último carácter de todo el documento  | CTRL + inicio o CTRL + fin     |
+
+ATAJOS BÁSICOS PARA NAVEGAR POR DOCUMENTOS
+
+| FUNCIÓN| DESCRIPCIÓN  | ATAJO DE TECLADO |  
+| ----------- | ----------- | ----------- |
+| Nuevo | Crea un documento en blanco | Ctrl + N |
+| Abrir | Abre un documento guardado | Ctrl + O |
+| Guardar | Guarda el documento actual | Ctrl + S |
+| Imprimir | Imprime la página actual | Ctrl + P |
+| Deshacer | Cancela el último cambio en el documento | Ctrl + Z |
+| Copiar | Copia el texto seleccionado al portapapeles | Ctrl + C |
+| Pegar | Pega el texto cortado o copiado | Ctrl + V |
+| Cortar | Elimina la selección y la colocas en el portapapeles | Ctrl + X |
+| Buscar | Busca texto dentro del documento actual | Ctrl + F |
+| Ayuda | Abre el Centro de ayuda de Word | F1 |
+| Mostrar la sig. página | - | Re Pág |
+| Mover el cursor al inicio de la sig. pág | - | Ctrl + Re Pág |
+| Mostrar la página anterior| - | Av Pág |
+| Mover el cursor al inicio de la página anterior  | - | Ctrl + Av Pág |
+| Ir al final de la línea actual  | - | Fin |
+| Mover el cursor al final del documento | - | Ctrl + Fin |
+| Ir al inicio de la línea actual | - | Incio |
+| Mover el cursor al inicio del documento | - | Ctrl + Inicio |
+
+
+
 
 
 

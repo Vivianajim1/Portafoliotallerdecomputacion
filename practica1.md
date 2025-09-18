@@ -13,12 +13,12 @@ Comprendiendo la Vista Backstage
 Todo Microsoft Office 2016 contiene el área Backstage. El Backstage es donde gestionas, guardas y abres tus archivos. Aquí también puedes imprimir, seleccionar plantillas y realizar otras tareas útiles.
 Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana).
 
-![alt text](cap1.png)
+![alt text](capturabu1.png)
 
 La primera página que verás es la Página de Información.
 La sección Información muestra el nombre, tamaño y autores de tu archivo. También puedes ver cuándo se realizó el último AutoGuardado. Los AutoGuardados son la red de seguridad de Office. Periódicamente, tu computadora guardará automáticamente tu archivo como un archivo temporal. Si tu computadora se apaga inesperadamente, puedes recuperar parte de tu trabajo a partir de los AutoGuardados
 
-![alt text](cap2.png)
+![alt text](capturabue2.png)
 
 Opciones del Backstage:
 	•	Nuevo: Puedes crear un documento nuevo y en blanco o seleccionar una plantilla de la biblioteca de Word. Word proporciona plantillas para currículums, calendarios y folletos para ayudarte a comenzar.
@@ -32,19 +32,24 @@ Opciones del Backstage:
 	•	Cuenta: Permite cambiar los colores del fondo de Office e iniciar sesión con una cuenta de Microsoft diferente si es necesario.
 	•	Opciones: Da acceso a las funciones avanzadas de Word. Esta opción también permite reorganizar la cinta de opciones u otros ajustes de la aplicación.
  
- ![alt text](https://github.com/Vivianajim1/Portafoliotallerdecomputacion/blob/main/cap3.png)
+ ![alt text](capbue3.png)
 
-Para regresar a la ventana de Word, haz clic en la flecha en la parte superior.
+Para regresar a la ventana de Word, haz clic en la flecha en la parte superior. ![alt text](capbue4.png)
 
-La Cinta de Opciones es un panel que contiene agrupaciones funcionales de botones y listas desplegables organizadas por pestañas. Cada producto de la suite de Office tiene un conjunto de pestañas relacionadas con la funcionalidad de esa aplicación. Cada pestaña se divide a su vez en grupos, como Fuente y Párrafo. ![alt text](image.jpg)
 
-En la esquina inferior derecha de algunos grupos, hay una flecha diagonal llamada Iniciador de cuadro de diálogo. Al hacer clic en este botón, se abre un cuadro de diálogo para ese grupo que contiene opciones adicionales relacionadas con el grupo. ![alt text](image.jpg)
+La Cinta de Opciones es un panel que contiene agrupaciones funcionales de botones y listas desplegables organizadas por pestañas. Cada producto de la suite de Office tiene un conjunto de pestañas relacionadas con la funcionalidad de esa aplicación. Cada pestaña se divide a su vez en grupos, como Fuente y Párrafo.
+![alt text](CAPTURA.5.png)
 
-Las pestañas contextuales aparecerán según en qué estés trabajando. Por ejemplo, si has insertado imágenes, la pestaña aparecerá cada vez que se seleccione una imagen. ![alt text](image.jpg)
+En la esquina inferior derecha de algunos grupos, hay una flecha diagonal llamada Iniciador de cuadro de diálogo. Al hacer clic en este botón, se abre un cuadro de diálogo para ese grupo que contiene opciones adicionales relacionadas con el grupo. 
+![alt text](CAPTURA.6.png)
+
+Las pestañas contextuales aparecerán según en qué estés trabajando. Por ejemplo, si has insertado imágenes, la pestaña aparecerá cada vez que se seleccione una imagen. 
+![alt text](CAPTURA.7.png)
 
 Personalización de la Cinta de Opciones
 Puedes ocultar o mostrar pestañas que no utilices, o crear tu propia pestaña con tus herramientas favoritas. A continuación se explica cómo personalizar la Cinta de Opciones para crear tus propias pestañas y grupos.
-Haz clic en la pestaña Archivo. ![alt text](image.jpg)
+Haz clic en la pestaña Archivo.
+![alt text](CAPTURA.8.png)
 
 Pestaña Archivo (Vista Backstage)
 	•	En la Vista Backstage, haz clic en Opciones.
@@ -56,7 +61,10 @@ Pestaña Archivo (Vista Backstage)
 El comando se agregará a tu pestaña Nuevo grupo.
 	•	Para renombrar la pestaña o el grupo, haz clic derecho sobre Nueva pestaña o Nuevo grupo.
 	•	Haz clic en Cambiar nombre.
-	•	Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña. ![alt text](image.jpg)
+	•	Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña. 
+ ![alt text](CAPTURA.9.png) 
+ ![alt text](CAPTURA.10.png)
+
 
 Barra de herramientas de acceso rápido
 La Barra de herramientas de acceso rápido se encuentra en la parte superior izquierda de la ventana principal de Word, encima de las pestañas Archivo e Inicio. Permite acceder fácilmente a los comandos que usas con frecuencia y se puede personalizar:
@@ -65,8 +73,9 @@ La Barra de herramientas de acceso rápido se encuentra en la parte superior izq
 	3.	Haz clic en Más comandos.
 	4.	En la ventana Personalizar Barra de herramientas de acceso rápido, selecciona un comando de la columna de la izquierda.
 	5.	Haz clic en Agregar.
-	6.	Haz clic en Aceptar (ver Figura 10). ![alt text](image.jpg)
-
+	6.	Haz clic en Aceptar.
+ ![alt text](CAPTURA.11.png)
+ ![alt text](CAPTURA.12.png)
 
 Otras partes de la Cinta de Opciones
 En la parte superior de la cinta hay varias pestañas; al hacer clic en una pestaña, se muestran varios grupos de comandos relacionados:
@@ -77,43 +86,43 @@ En la parte superior de la cinta hay varias pestañas; al hacer clic en una pest
 	•	Referencias: Permite gestionar fuentes y citas, así como agregar tablas de contenido y notas al pie.
 	•	Correspondencia: Permite configurar y usar la función de Combinar correspondencia de Word.
 	•	Revisar: Esta pestaña permite usar la revisión ortográfica y gramatical, insertar comentarios, realizar un seguimiento de los cambios hechos en el documento y usar un diccionario de sinónimos.
-	•	Vista: En esta pestaña puedes cambiar la forma en que se ve la ventana de Word. ![alt text](image.jpg)
+	•	Vista: En esta pestaña puedes cambiar la forma en que se ve la ventana de Word. 
+ ![alt text](CAPTURA.13.png)
 
 La barra de título
 Junto a la Barra de herramientas de acceso rápido se encuentra la Barra de título. La Barra de título muestra el nombre del documento en el que estás trabajando actualmente. Word nombra el primer documento nuevo que abres como “Documento1” hasta que lo guardes y le des un nuevo nombre.
-![alt text](image.jpg)
+![alt text](CAPTURA.14.png)
 
 La regla se encuentra debajo de la cinta de opciones. Usando la regla, puedes ajustar de manera eficiente los márgenes de la página y las sangrías de los párrafos. ![alt text](image.jpg)
 
 Para ver la regla:
 	1.	Haz clic en la pestaña Vista.
-	2.	Marca la casilla junto a Regla en el grupo Mostrar. Cuando la casilla esté marcada, la regla será visible. ![alt text](image.jpg)
+	2.	Marca la casilla junto a Regla en el grupo Mostrar. Cuando la casilla esté marcada, la regla será visible.
+ ![alt text](CAPTURA.15.png)
 
 Área de texto
 Justo debajo de la regla hay un área grande para trabajar. La línea vertical parpadeante en la esquina superior izquierda del área de texto es el cursor, que indica el punto de inserción. A medida que escribes, tu texto aparecerá en la ubicación del cursor.
 
 La barra de estado
-Aparece en la esquina inferior izquierda de Word. La barra de estado muestra la página actual y el recuento de palabras de tu documento. Puedes personalizar lo que se muestra en la barra de estado. ![alt text](image.jpg)
-
-Para personalizar la barra de estado:
-	1.	Haz clic derecho sobre la barra de estado.
-	2.	Selecciona las opciones que deseas que se muestren en el menú que aparece.
-	3.	Haz clic en un elemento para seleccionarlo o deseleccionarlo. Una marca de verificación junto a un elemento indica que se muestra en la barra de estado. ![alt text](image.jpg)
+Aparece en la esquina inferior izquierda de Word. La barra de estado muestra la página actual y el recuento de palabras de tu documento. Puedes personalizar lo que se muestra en la barra de estado.
+![alt text](PAGINA1DE1.png)
 
 Vistas de documento
-En Word 2016, puedes mostrar tu documento con una de las siguientes cinco vistas: Borrador, Diseño Web, Diseño de impresión, Modo de lectura o Esquema. Estas opciones se encuentran en la pestaña Vista. ![alt text](image.jpg)
+En Word 2016, puedes mostrar tu documento con una de las siguientes cinco vistas: Borrador, Diseño Web, Diseño de impresión, Modo de lectura o Esquema. Estas opciones se encuentran en la pestaña Vista.
+![alt text](CAPTURA.17.png)
 	•	Vista Borrador: La vista Borrador elimina los espacios innecesarios. No podrás ver los márgenes ni el diseño de página.
 	•	Diseño Web: Permite ver tu documento tal como aparecería en un navegador web, como Internet Explorer.
 	•	Diseño de impresión: Muestra todo, desde los márgenes hasta el diseño de la página. Es la vista más común, ya que muestra cómo se verá el documento al imprimirse.
 	•	Modo de lectura: Permite ver cómo se ve tu documento en un formato de dos páginas. Es ideal para comprobar cómo se verá el documento en dispositivos como tabletas. No puedes editar el documento en esta vista.
 	•	Vista de esquema: Muestra el documento en forma de esquema. Puedes ver solo los encabezados sin el texto. Si mueves un encabezado, el texto asociado se mueve con él.
-![alt text](image.jpg)
 
+ 
 CREAR Y GUARDAR UN DOCUMENTO
 Crear un documento
 Una vez que abras Word 2016, habrás iniciado un documento nuevo. Verás una página en blanco y un cursor parpadeante.
 Antes de comenzar o poco después, debes guardar tu documento. Guardar un documento con frecuencia evita la pérdida de archivos si tu computadora se apaga inesperadamente. En este punto, puedes comenzar a ingresar texto. Es posible que necesites varias sesiones en Word para completar la versión final de documentos largos o complejos.
-Cuando escribes texto en un documento de Word, cada carácter aparece a la izquierda del punto de inserción parpadeante (el cursor) en la ventana del documento. El texto que ingreses puede incluir letras, espacios, números y símbolos. A medida que escribes, el punto de inserción se mueve a través de la pantalla de derecha a izquierda. ![alt text](image.jpg)
+Cuando escribes texto en un documento de Word, cada carácter aparece a la izquierda del punto de inserción parpadeante (el cursor) en la ventana del documento. El texto que ingreses puede incluir letras, espacios, números y símbolos. A medida que escribes, el punto de inserción se mueve a través de la pantalla de derecha a izquierda. 
+![alt text](CAPTURA.18.png)
 
 Guardar un documento
 El menú Guardar como aparece la primera vez que guardas un archivo. También puedes usar este menú para guardar diferentes copias del mismo archivo, asignando a cada copia un nombre ligeramente distinto. Esto se puede hacer en cualquier momento.
@@ -126,7 +135,9 @@ Tu cuenta de OneDrive es un servicio de almacenamiento en la nube donde puedes g
 A menos que quieras usar una cuenta de OneDrive, guardarás la mayoría de tus archivos en la computadora.
 Desde la pantalla Guardar como:
 	1.	Selecciona Esta PC
-	2.	Haz clic en Examinar ![alt text](image.jpg)
+	2.	Haz clic en Examinar
+ ![alt text](CAPTURA.19.png)
+ 
 También puedes usar el cuadro de diálogo Guardar como para guardar diferentes copias del mismo archivo, asignando a cada copia un nombre ligeramente distinto.
 	1.	Cuadro de Nombre de archivo: Word insertará automáticamente un nombre de archivo predeterminado la primera vez que guardes un documento. Este nombre predeterminado suele ser la primera frase del documento, aunque puedes modificarlo. Word puede manejar nombres de archivo de hasta 255 caracteres. Estos nombres pueden incluir letras mayúsculas y minúsculas, números e incluso espacios.
 Sin embargo, no pueden contener los siguientes símbolos: < > : * | \" ? /
@@ -140,55 +151,58 @@ Qué sucede si sales de Word antes de guardar un documento:
 Si haces clic en la “X” antes de guardar, aparecerá un cuadro emergente con tres opciones:
 	1.	Guardar: Abre el cuadro de diálogo Guardar como para guardar el archivo.
 	2.	No guardar: Descarta el documento sin guardar los cambios.
-	3.	Cancelar: Hace que Word vuelva al documento para continuar trabajando. ![alt text](image.jpg)
+	3.	Cancelar: Hace que Word vuelva al documento para continuar trabajando. 
+ ![alt text](CAPTURA.20.png)
 
 ABRIR DOCUMENTOS EXISTENTES
 Los documentos previamente guardados en tu computadora o en OneDrive se pueden abrir para revisarlos. Selecciona Abrir desde la Vista Backstage.
 Si el archivo que deseas abrir está en OneDrive, selecciona OneDrive para descargar y editar archivos almacenados en tu cuenta de OneDrive. Observa que los documentos guardados recientemente se muestran en el lado derecho. Puedes abrirlos haciendo clic en la carpeta o en el nombre del archivo.
-Si no ves el archivo que necesitas, elige Examinar. Esto abrirá el cuadro de diálogo Abrir, que es muy similar al cuadro de diálogo Guardar como. Usa esta herramienta para buscar y abrir tu archivo. ![alt text](image.jpg)
+Si no ves el archivo que necesitas, elige Examinar. Esto abrirá el cuadro de diálogo Abrir, que es muy similar al cuadro de diálogo Guardar como. Usa esta herramienta para buscar y abrir tu archivo.
+![alt text](CAPTURA.21.png)
 
 Abrir desde el cuadro de diálogo
-	•	Si ves tu archivo en la ubicación actual, selecciónalo y haz clic en Abrir.
-	•	Un archivo guardado en una carpeta específica se abre haciendo doble clic en la carpeta para ver los archivos dentro.
-	•	Para un archivo guardado en una memoria USB, selecciona la unidad en el lado izquierdo para ver las carpetas y archivos que contiene.
-	•	Si no recuerdas dónde guardaste el archivo, puedes escribir el nombre del archivo en el Cuadro de búsqueda y hacer clic en el símbolo de la lupa para buscarlo. ![alt text](image.jpg)
+	•	Si ves tu archivo en la ubicación actual, selecciónalo y haz clic en Abrir. (4)
+	•	Un archivo guardado en una carpeta específica se abre haciendo doble clic en la carpeta para ver los archivos dentro. (2)
+	•	Para un archivo guardado en una memoria USB, selecciona la unidad en el lado izquierdo para ver las carpetas y archivos que contiene. (1)
+	•	Si no recuerdas dónde guardaste el archivo, puedes escribir el nombre del archivo en el Cuadro de búsqueda y hacer clic en el símbolo de la lupa para buscarlo. (3)
+ ![alt text](CAPTURA.22.png)
 
 VISTA PREVIA DE IMPRESIÓN Y CONFIGURACIÓN DE IMPRESIÓN
 Puedes previsualizar tu documento antes de imprimirlo. Esto asegura que el documento tendrá el aspecto y diseño que deseas.
-
 Para acceder a la vista previa de impresión:
 	1.	Haz clic en la pestaña Archivo.
 	2.	Haz clic en Imprimir.
- La vista previa de impresión en Word 2016 se muestra automáticamente junto con el menú de impresión. Para regresar a la ventana de Word sin imprimir, haz clic en la flecha en la esquina superior izquierda. ![alt text](image.jpg)
+ La vista previa de impresión en Word 2016 se muestra automáticamente junto con el menú de impresión. Para regresar a la ventana de Word sin imprimir, haz clic en la flecha en la esquina superior izquierda. ![alt text](CAPTURA.23.png) 
 
 Impresión
 Después de crear un documento nuevo, puedes imprimirlo. No es necesario guardar el documento antes de imprimir. Haz clic en la pestaña Archivo y luego en Imprimir. 
 Desde este menú puedes ajustar las configuraciones de impresión actuales, por ejemplo:
-	•	Especificar cuántas copias necesitas.
-	•	Elegir la porción del documento que deseas imprimir (por ejemplo, una sola página o un párrafo).
-Veamos otras opciones de impresión:
-	•	Determina cuántas copias imprimir.
-	•	Selecciona la impresora que deseas usar. Verifica que esté seleccionada la impresora correcta si tienes acceso a más de una.
-	•	Si tu impresora lo permite, puedes imprimir a doble cara (impresión dúplex).
-	•	Selecciona el rango de impresión (todas las páginas, páginas específicas o selección). Para imprimir páginas específicas, escribe los números de página en el cuadro Páginas.
-	•Selecciona el tamaño de papel. Normalmente se usa tamaño carta o 8.5" X 11"
-   *Puede optar por imprimir varias páginas por hoja. Esto reducirá el tamaño del texto.
-Si su impresora tiene Wi-Fi, asegúrese de que sea la impresora en la que está imprimiendo. ![alt text](image.jpg)
+	1	Especificar cuántas copias necesitas.
+	2	Selecciona la impresora que deseas usar. Verifica que esté seleccionada la impresora correcta si tienes acceso a más de una.
+	3   Si tu impresora lo permite, puedes imprimir a doble cara (impresión dúplex).
+    4	Selecciona el rango de impresión (todas las páginas, páginas específicas o selección). Para imprimir páginas específicas, escribe los números de página en el cuadro Páginas.
+	5   Selecciona el tamaño de papel. Normalmente se usa tamaño carta o 8.5" X 11"
+    6   Puede optar por imprimir varias páginas por hoja. Esto reducirá el tamaño del texto.
+Si su impresora tiene Wi-Fi, asegúrese de que sea la impresora en la que está imprimiendo.
+![alt text](CAPTURA.25.png)
 
 CORTAR, COPIAR Y PEGAR
 	•	Cortar: significa eliminar el texto de tu documento y almacenarlo en el Portapapeles.
 	•	Copiar: significa crear un duplicado del texto.
-	•	Pegar: significa colocar el texto que has cortado o copiado en otra ubicación de tu documento o en un documento diferente. ![alt text](image.jpg)
+	•	Pegar: significa colocar el texto que has cortado o copiado en otra ubicación de tu documento o en un documento diferente. 
+ ![alt text](CAPTURA.26.png)
 
 Usar el Copiar formato (Format Painter)
-El Copiar formato te permite aplicar los ajustes de formato a otro texto dentro de tu documento. ![alt text](image.jpg)
+El Copiar formato te permite aplicar los ajustes de formato a otro texto dentro de tu documento. 
+![alt text](CAPTURA.27.png)
 Consejo: Esto es excelente para mantener consistencia en títulos o encabezados en todo tu documento.
 
 Portapapeles
 El Portapapeles es una función de todos los productos de Microsoft Office. Es un lugar temporal donde se almacena el texto o las imágenes que has copiado o cortado.
 Para ver lo que está almacenado en el portapapeles:
 	1.	Haz clic en la pestaña Inicio.
-	2.	Haz clic en el botón de la esquina derecha > del grupo Portapapeles. Aparecerá el portapapeles ![alt text](image.jpg)
+	2.	Haz clic en el botón de la esquina derecha > del grupo Portapapeles. Aparecerá el portapapeles
+ ![alt text](CAPTURA.28.png)
 
 RESALTAR Y CAMBIAR LA FUENTE
 
@@ -214,7 +228,9 @@ Si necesitas resaltar todo el documento, presiona las teclas Ctrl + A al mismo t
 
 Cambiar la fuente
 Una fuente es el estilo o tipo de letra del texto. Algunas de las fuentes más comunes son Calibri, Times New Roman y Arial. La fuente predeterminada de Word 2016 es Calibri.
-Los tamaños de fuente se miden en puntos. Un punto es la medida vertical de un carácter. Una pulgada equivale a 72 puntos. Los tamaños más comunes son 10 y 12 puntos. ![alt text](image.jpg)
+Los tamaños de fuente se miden en puntos. Un punto es la medida vertical de un carácter. Una pulgada equivale a 72 puntos. Los tamaños más comunes son 10 y 12 puntos. 
+![alt text](CAPTURA.29.png)
+
 La cinta de opciones tiene accesos directos que facilitan cambiar el tamaño, la forma y el estilo de la fuente. Desde aquí puedes usar:
 	•	Negrita (B)
 	•	Cursiva (I)
@@ -223,7 +239,8 @@ La cinta de opciones tiene accesos directos que facilitan cambiar el tamaño, la
 
 ESPACIADO ENTRE LÍNEAS
 El espaciado entre líneas predeterminado de Word 2016 es espaciado múltiple. Al presionar Enter, habrá un espacio más amplio entre las oraciones. Puedes cambiar el espaciado predeterminado en cualquier momento. Por ejemplo, puedes modificarlo al abrir un documento nuevo, mientras redactas un documento o después de haber terminado.
-Algunos usuarios prefieren escribir primero el documento y luego darle formato (o cambiar el estilo) después. Otros prefieren dar formato antes de empezar a escribir. ![alt text](image.jpg)
+Algunos usuarios prefieren escribir primero el documento y luego darle formato (o cambiar el estilo) después. Otros prefieren dar formato antes de empezar a escribir. 
+![alt text](captura.30.png)
 
 
 REVISIÓN ORTOGRÁFICA Y GRAMATICAL
@@ -238,7 +255,9 @@ Es una función de Microsoft Office que verifica errores ortográficos en todo e
  
 Cómo corregir errores
 	•	Haz clic derecho sobre las líneas rojas o verdes. Word mostrará un menú con opciones para corregir posibles errores.
-	•	También puedes seleccionar Ortografía y gramática en la pestaña Revisar de la cinta de opciones. ![alt text](image.jpg) ![alt text](image.jpg)
+	•	También puedes seleccionar Ortografía y gramática en la pestaña Revisar de la cinta de opciones.
+ ![alt text](CAPTURA.33.png) 
+ ![alt text](CAPTURA.31.png)
 
 
 Se abrirá un panel en el lado derecho de la pantalla mostrando los posibles errores del documento.
@@ -247,7 +266,8 @@ Se abrirá un panel en el lado derecho de la pantalla mostrando los posibles err
 	•	Haz clic en Omitir todo para ignorar todas las instancias de la palabra en el documento actual.
 	•	Haz clic en Agregar para añadir la palabra al diccionario de tu computadora.
 	•	Cambiar: cambia solo esta instancia de la palabra.
-	•	Cambiar todo: reemplaza todas las instancias de la palabra mal escrita por la sugerida. ![alt text](image.jpg)
+	•	Cambiar todo: reemplaza todas las instancias de la palabra mal escrita por la sugerida. 
+ ![alt text](CAPTURA.32.png)
 
 Autocorrección
 Es una función predeterminada que corrige automáticamente errores comunes de tipeo y gramática sin tu intervención. Puedes mantener esta función activa o desactivarla.
@@ -255,7 +275,8 @@ Para desactivar AutoCorrect:
 	1.	Haz clic en Archivo.
 	2.	Haz clic en Opciones.
 	3.	Haz clic en Revisión.
-	4.	Haz clic en Opciones de Autocorrección. ![alt text](image.jpg)
+	4.	Haz clic en Opciones de Autocorrección. 
+ ![alt text](CAPTURA.34.png)
 
 MÁS ALLÁ DE ESCRIBIR USANDO EL TECLADO
 Los siguientes comandos se pueden usar en su teclado para navegar dentro de Microsoft Word 

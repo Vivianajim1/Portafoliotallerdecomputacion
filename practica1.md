@@ -84,13 +84,21 @@ La Barra de herramientas de acceso rápido se encuentra en la parte superior izq
 
 Otras partes de la Cinta de Opciones
 En la parte superior de la cinta hay varias pestañas; al hacer clic en una pestaña, se muestran varios grupos de comandos relacionados:
+
 Inicio: Contiene los comandos más utilizados en Word, como cambiar el formato del texto y los comandos Cortar, Copiar y Pegar.
+
 Insertar: Contiene comandos para insertar objetos como imágenes, tablas y formas en el documento.
+
 Diseño: Permite cambiar el aspecto del documento y agregar elementos visuales.
+
 Diseño de página: Permite cambiar la posición del texto en la página y el formato del documento.
+
 Referencias: Permite gestionar fuentes y citas, así como agregar tablas de contenido y notas al pie.
+
 Correspondencia: Permite configurar y usar la función de Combinar correspondencia de Word.
+
 Revisar: Esta pestaña permite usar la revisión ortográfica y gramatical, insertar comentarios, realizar un seguimiento de los cambios hechos en el documento y usar un diccionario de sinónimos.
+
 Vista: En esta pestaña puedes cambiar la forma en que se ve la ventana de Word. 
 
  ![alt text](CAPTURA.13.png)
@@ -141,14 +149,17 @@ El menú Guardar como aparece la primera vez que guardas un archivo. También pu
 Puedes guardar tu archivo antes, durante o después de haber terminado tu sesión. Para guardarlo debes:
 Abrir la pantalla Guardar como
 Por defecto, tienes dos lugares donde puedes guardar tu archivo:
+
 1.	Directamente en tu computadora
 2.	En una cuenta de OneDrive
+
 Tu cuenta de OneDrive es un servicio de almacenamiento en la nube donde puedes guardar tu archivo en los servidores de Microsoft en lugar de tu computadora. Esta opción te permite acceder a tus archivos desde cualquier computadora con acceso a Internet. Para este curso, no usaremos OneDrive; solo guardaremos el archivo en la computadora.
 A menos que quieras usar una cuenta de OneDrive, guardarás la mayoría de tus archivos en la computadora.
+
 Desde la pantalla Guardar como:
 1.	Selecciona Esta PC
 2.	Haz clic en Examinar
-3.	
+
  ![alt text](CAPTURA.19.png)
  
 También puedes usar el cuadro de diálogo Guardar como para guardar diferentes copias del mismo archivo, asignando a cada copia un nombre ligeramente distinto.
@@ -191,9 +202,9 @@ Puedes previsualizar tu documento antes de imprimirlo. Esto asegura que el docum
 Para acceder a la vista previa de impresión:
 1.	Haz clic en la pestaña Archivo.
 2.	Haz clic en Imprimir.
- La vista previa de impresión en Word 2016 se muestra automáticamente junto con el menú de impresión. Para regresar a la ventana de Word sin imprimir, haz clic en la flecha en la esquina superior izquierda. !
+ La vista previa de impresión en Word 2016 se muestra automáticamente junto con el menú de impresión. Para regresar a la ventana de Word sin imprimir, haz clic en la flecha en la esquina superior izquierda.
 
-[alt text](CAPTURA.23.png) 
+![alt text](CAPTURA.23.png) 
 
 ## Impresión
 
@@ -248,7 +259,7 @@ Seleccionar con las teclas Shift y flechas:
 3.	Mientras mantienes presionada la tecla Shift, presiona la flecha derecha. Esto resaltará una letra a la vez.
 4.	Presiona la flecha hacia abajo hasta que todo el primer párrafo esté resaltado.
 5.	Haz clic en cualquier lugar fuera del área resaltada para quitar el resaltado.
--Si necesitas resaltar todo el documento, presiona las teclas Ctrl + A al mismo tiempo.
+* Si necesitas resaltar todo el documento, presiona las teclas Ctrl + A al mismo tiempo.
 
 ## Cambiar la fuente
 Una fuente es el estilo o tipo de letra del texto. Algunas de las fuentes más comunes son Calibri, Times New Roman y Arial. La fuente predeterminada de Word 2016 es Calibri.
@@ -336,15 +347,14 @@ ATAJOS BÁSICOS PARA NAVEGAR POR DOCUMENTOS
 | Cortar | Elimina la selección y la colocas en el portapapeles | Ctrl + X |
 | Buscar | Busca texto dentro del documento actual | Ctrl + F |
 | Ayuda | Abre el Centro de ayuda de Word | F1 |
-
 | - | Mostrar la sig. página | Re Pág |
 | - | Mover el cursor al inicio de la sig. pág | Ctrl + Re Pág |
-| -| Mostrar la página anterior | Av Pág |
-| -| Mover el cursor al inicio de la página anterior | Ctrl + Av Pág |
-| -  | Ir al final de la línea actual | Fin |
+| - | Mostrar la página anterior | Av Pág |
+| - | Mover el cursor al inicio de la página anterior | Ctrl + Av Pág |
+| - | Ir al final de la línea actual | Fin |
 | - | Mover el cursor al final del documento | Ctrl + Fin |
 | - | Ir al inicio de la línea actual | Inicio |
-| -| Mover el cursor al inicio del documento | Ctrl + Inicio |
+| - | Mover el cursor al inicio del documento | Ctrl + Inicio |
 
 
 

@@ -11,7 +11,8 @@ Abrir Microsoft Word 2016:
 
 Comprendiendo la Vista Backstage
 Todo Microsoft Office 2016 contiene el área Backstage. El Backstage es donde gestionas, guardas y abres tus archivos. Aquí también puedes imprimir, seleccionar plantillas y realizar otras tareas útiles.
-Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana). ![alt text](cap1.png)
+Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana).
+![alt text](cap1.png)
 
 La primera página que verás es la Página de Información.
 La sección Información muestra el nombre, tamaño y autores de tu archivo. También puedes ver cuándo se realizó el último AutoGuardado. Los AutoGuardados son la red de seguridad de Office. Periódicamente, tu computadora guardará automáticamente tu archivo como un archivo temporal. Si tu computadora se apaga inesperadamente, puedes recuperar parte de tu trabajo a partir de los AutoGuardados

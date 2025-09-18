@@ -1,6 +1,6 @@
 # PRÁCTICA 1 WORD
 
-Microsoft Word es un programa que sirve para escribir y dar formato a textos. Con él puedes crear cartas, tareas, informes, currículums y muchos más documentos. Esta guía presenta a los usuarios Microsoft Word 2016.
+Microsoft Word es un programa que sirve para escribir y dar formato a textos. Con él puedes crear cartas, tareas, informes, currículums y muchos más documentos. 
 
 Abrir Microsoft Word 2016:	
 1.	Haz clic en el Menú Inicio de tu computadora

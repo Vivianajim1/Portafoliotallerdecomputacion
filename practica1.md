@@ -12,11 +12,13 @@ Abrir Microsoft Word 2016:
 Comprendiendo la Vista Backstage
 Todo Microsoft Office 2016 contiene el área Backstage. El Backstage es donde gestionas, guardas y abres tus archivos. Aquí también puedes imprimir, seleccionar plantillas y realizar otras tareas útiles.
 Primero, haz clic en la pestaña Archivo (que se encuentra en la esquina superior izquierda de la ventana).
+
 ![alt text](cap1.png)
 
 La primera página que verás es la Página de Información.
 La sección Información muestra el nombre, tamaño y autores de tu archivo. También puedes ver cuándo se realizó el último AutoGuardado. Los AutoGuardados son la red de seguridad de Office. Periódicamente, tu computadora guardará automáticamente tu archivo como un archivo temporal. Si tu computadora se apaga inesperadamente, puedes recuperar parte de tu trabajo a partir de los AutoGuardados
-![alt text](image.jpg)
+
+![alt text](cap2.png)
 
 Opciones del Backstage:
 	•	Nuevo: Puedes crear un documento nuevo y en blanco o seleccionar una plantilla de la biblioteca de Word. Word proporciona plantillas para currículums, calendarios y folletos para ayudarte a comenzar.
@@ -29,7 +31,8 @@ Opciones del Backstage:
 	•	Exportar: Permite exportar (o guardar) tu documento como otro tipo de archivo, como PDF.
 	•	Cuenta: Permite cambiar los colores del fondo de Office e iniciar sesión con una cuenta de Microsoft diferente si es necesario.
 	•	Opciones: Da acceso a las funciones avanzadas de Word. Esta opción también permite reorganizar la cinta de opciones u otros ajustes de la aplicación.
- ![alt text](image.jpg)
+ 
+ ![alt text](https://github.com/Vivianajim1/Portafoliotallerdecomputacion/blob/main/cap3.png)
 
 Para regresar a la ventana de Word, haz clic en la flecha en la parte superior.
 

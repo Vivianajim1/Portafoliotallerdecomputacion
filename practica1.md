@@ -53,15 +53,15 @@ Haz clic en la pestaña Archivo.
 
 ## Pestaña Archivo (Vista Backstage)
 
-1. En la Vista Backstage, haz clic en Opciones.
-2. En el cuadro de diálogo Opciones de Word, haz clic en Personalizar cinta de opciones.
-3. Haz clic en el botón Nueva pestaña.
-4. Se agregará una Nueva pestaña en la lista de pestañas principales. Debajo de Nueva pestaña, verás que Nuevo grupo ya está seleccionado para ti.
-5. Desde la columna de la izquierda, selecciona un comando de la lista bajo Elegir comandos de para agregarlo al Nuevo grupo.
-6. Haz clic en el botón Agregar. El comando se agregará a tu pestaña Nuevo grupo.
-7. Para renombrar la pestaña o el grupo, haz clic derecho sobre Nueva pestaña o Nuevo grupo.
-8. Haz clic en Cambiar nombre.
-9. Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña.
+* En la Vista Backstage, haz clic en Opciones.
+*  En el cuadro de diálogo Opciones de Word, haz clic en Personalizar cinta de opciones.
+* Haz clic en el botón Nueva pestaña.
+* Se agregará una Nueva pestaña en la lista de pestañas principales. Debajo de Nueva pestaña, verás que Nuevo grupo ya está seleccionado para ti.
+* Desde la columna de la izquierda, selecciona un comando de la lista en Elegir comandos de para agregarlo al Nuevo grupo.
+* Haz clic en el botón Agregar. El comando se agregará a tu pestaña Nuevo grupo.
+* Para renombrar la pestaña o el grupo, haz clic derecho sobre Nueva pestaña o Nuevo grupo.
+* Haz clic en Cambiar nombre.
+* Para ocultar una pestaña, quita la marca de verificación junto al nombre de la pestaña.
     
  ![alt text](CAPTURA.9.png) 
  

@@ -55,7 +55,7 @@ Intentamos crear nuestro dominio, pero no nos acepta por falta de relación con 
 Avanzamos con algunas actividades que son capturar pasos de Word.
 
 ## Tarea 995
-Seguimos una guía de Word, en la que veíamos y poníamos en práctica todos las utilidades que nos da Word, como imprimir, crear un nuevo documento, guardarlo, etc. ´practica1.md´
-
+Seguimos una guía de Word, en la que veíamos y poníamos en práctica todos las utilidades que nos da Word, como imprimir, crear un nuevo documento, guardarlo, etc. 
+[Prácticaword](https://github.com/Vivianajim1/Portafoliotallerdecomputacion/blob/main/practica1.md)
 ## Tarea 994
 En esta actividad creamos nuestro sitio web, yo intente crear el mío personal, pero tuve demasiados problemas para hacerlo correctamente y corregir erroes. No lo hice bien la verdad pero trate de hacerlo lo más bien que se pudiera. [Sitioweb](https://vivianajim1.github.io/)

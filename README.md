@@ -53,3 +53,9 @@ Perdóneme profe, ya no confiaré en los humanos, no me ponga falta😢🙏🏽
 
 Intentamos crear nuestro dominio, pero no nos acepta por falta de relación con la universidad, por lo que mandamos un "reporte" con nuestra información y la de la universidad para que nos lo pueda aceptar.
 Avanzamos con algunas actividades que son capturar pasos de Word.
+
+## Tarea 995
+Seguimos una guía de Word, en la que veíamos y poníamos en práctica todos las utilidades que nos da Word, como imprimir, crear un nuevo documento, guardarlo, etc. ´practica1.md´
+
+## Tarea 994
+En esta actividad creamos nuestro sitio web, yo intente crear el mío personal, pero tuve demasiados problemas para hacerlo correctamente y corregir erroes. No lo hice bien la verdad pero trate de hacerlo lo más bien que se pudiera. [Sitioweb](https://vivianajim1.github.io/)

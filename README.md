@@ -54,6 +54,14 @@ Perdóneme profe, ya no confiaré en los humanos, no me ponga falta😢🙏🏽
 Intentamos crear nuestro dominio, pero no nos acepta por falta de relación con la universidad, por lo que mandamos un "reporte" con nuestra información y la de la universidad para que nos lo pueda aceptar.
 Avanzamos con algunas actividades que son capturar pasos de Word.
 
+## Clase 11-09-2025
+
+No tuvimos clases con el maestro, por lo que avanzamos un poco más en nuestras tareas pendientes.
+
+## Clase 15-09-2025
+
+Intentamos hacer nuestro sitio web, por milésima vez, yo no pude hacerlo bien😭, los códigos se me movían pero intente como 100 veces cambiarlo para que quede bien, pero no she pudo🥲.
+
 ## Tarea 995
 Seguimos una guía de Word, en la que veíamos y poníamos en práctica todos las utilidades que nos da Word, como imprimir, crear un nuevo documento, guardarlo, etc. 
 [Prácticaword](https://github.com/Vivianajim1/Portafoliotallerdecomputacion/blob/main/practica1.md)

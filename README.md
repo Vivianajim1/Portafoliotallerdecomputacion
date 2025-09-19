@@ -37,7 +37,9 @@ Llegando al salón de clases, nos dimos cuenta que no servían los aires acondic
 
 ## Tarea 996 
 28-08-25 Realizamos nuestro currículum, en español e inglés, con nuestras Soft skills y nuestras Hard skills, que son nuestras habilidades que hacemos mejor.
-[curriculum.pdf](https://github.com/user-attachments/files/22077966/curriculum.pdf)
+
+Puedes consultar mi currículum aquí:  
+[📄 Ver Curriculum (PDF)](tarea#996.pdf)
 
 ## Clase 01-09-25
 

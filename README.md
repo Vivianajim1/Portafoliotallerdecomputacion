@@ -69,3 +69,22 @@ Seguimos una guía de Word, en la que veíamos y poníamos en práctica todos la
 [Prácticaword](https://github.com/Vivianajim1/Portafoliotallerdecomputacion/blob/main/practica1.md)
 ## Tarea 994
 En esta actividad creamos nuestro sitio web, yo intente crear el mío personal, pero tuve demasiados problemas para hacerlo correctamente y corregir erroes. No lo hice bien la verdad pero trate de hacerlo lo más bien que se pudiera. [Sitioweb](https://vivianajim1.github.io/)
+## Clase 18-09-25
+
+En esta clase revisamos algunos detallitos y que estuvieran completas nuestras tareas para que ya se pudieran compartir con el maestro para ser calificadas. 
+
+## Clase 22-09-25
+
+En esta clase solo fue para aclarar dudas sobre las calificaciones, nos tomó la asistencia y fue todo por el día. Más tarde nos compartió por Discord las tareas a realizar en el segundo parcial.
+
+## Clase 25-09-25
+
+En esta clase adelantamos algunas actividades, pero en especial la de PASSWORD MANAGERS y la de CMS, ya que se entregaban antes que las demás, buscamos plantillas relacionadas a la investigación y buscamos información sobre cada uno, qué son y cuáles hay. 
+
+## Tarea 987
+Investigamos sobre los sitios web, sobre los CMS (sistema de gestión de contenido) y los que hay, y que nos permiten crear y modificar estos mismos.
+[CMS](cms.pdf)
+
+## Tarea 988
+Investigamos sobre los password (contraseñas), que son los que nos ayudan a verificar nuestra identidad y restringir el acceso a otras personas en alguna plataforma. Investigamos también sobre los password managers y cuales password managers hay.
+[Password](passwordmanager.pdf)

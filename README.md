@@ -88,3 +88,43 @@ Investigamos sobre los sitios web, sobre los CMS (sistema de gestión de conteni
 ## Tarea 988
 Investigamos sobre los password (contraseñas), que son los que nos ayudan a verificar nuestra identidad y restringir el acceso a otras personas en alguna plataforma. Investigamos también sobre los password managers y cuales password managers hay.
 [Password](passwordmanager.pdf)
+
+## Clase 29-09-25 
+En esta clase se subio la tarea anterior mencionada, y empezamos a adelantar los ejercicios de Funciones y fórmulas.
+
+## Clase 02-10-25
+En esta clase seguía a la mitad de los ejercicios de Funciones, estaban larguísimos. 
+
+## Clase 06-10-25
+En esta clase empece a documentar los ejercicios del capítulo RANGOS, avance mucho jeje.
+
+## Clase 09-10-25
+En esta clase empece con los ejercicios de Workbook y ribbon, porque eran poquitos y los quería acabar rápido.
+
+## Clase 13-10-25
+En esta clase no pude asistir por pelar mi lugar pa la beca, pero adelante ejercicios jeje.
+
+## Clase 16-10-25.
+En esta clase termine algunos ejercicios que me faltaban de ribbon ya que soy pobre y no me agarra el excel premium :c
+
+# TAREAS
+
+## Tarea 993 RANGOS 
+[RANGOS](Tarea993-rangos.pdf)
+
+## Tarea 992 MAPA CONCEPTUAL
+[MAPA CONCEPTUAL](Tarea992-articulo.png1.pdf)
+
+## Tarea 991 FÓRMULAS Y FUNCIONES
+[FÓRMULAS Y FUNCIONES](https://www.example.com)
+
+## Tarea 990 RIBBON
+[RIBBON](Tarea995-ribbon.pdf)
+
+## Tarea 989 WORKBOOKS 
+[WORKBOOKS](Tarea989-workbook.pdf)
+
+
+## Tarea 986 SITIO WEB 
+[SITIO WEB](https://www.example.com)
+

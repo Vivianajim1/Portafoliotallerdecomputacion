@@ -114,6 +114,7 @@ En esta clase termine algunos ejercicios que me faltaban de ribbon ya que soy po
 
 ## Tarea 992 MAPA CONCEPTUAL
 ![alt text](articulo.png.png)
+![alt text](articulo.png2.png)
 
 ## Tarea 991 FÓRMULAS Y FUNCIONES
 [FÓRMULAS Y FUNCIONES](https://www.example.com)

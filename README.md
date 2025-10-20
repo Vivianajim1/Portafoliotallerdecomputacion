@@ -113,7 +113,7 @@ En esta clase termine algunos ejercicios que me faltaban de ribbon ya que soy po
 [RANGOS](Tarea993-rangos.pdf)
 
 ## Tarea 992 MAPA CONCEPTUAL
-[MAPA CONCEPTUAL](Tarea992-articulo.png1.pdf)
+![alt text](image.jpg)
 
 ## Tarea 991 FÓRMULAS Y FUNCIONES
 [FÓRMULAS Y FUNCIONES](https://www.example.com)

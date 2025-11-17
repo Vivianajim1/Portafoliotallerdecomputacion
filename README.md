@@ -129,7 +129,7 @@ En esta clase termine algunos ejercicios que me faltaban de ribbon ya que soy po
 ## Tarea 986 SITIO WEB 
 [SITIO WEB](https://wp.me/PgSzSj-1)
 
-#TERCER PARCIAL
+### TERCER PARCIAL
 ## Ejercicios de "Powerfull Data Analysis in Excel".
 
 ## ORDENAR

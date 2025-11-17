@@ -129,3 +129,32 @@ En esta clase termine algunos ejercicios que me faltaban de ribbon ya que soy po
 ## Tarea 986 SITIO WEB 
 [SITIO WEB](https://wp.me/PgSzSj-1)
 
+#TERCER PARCIAL
+## Ejercicios de "Powerfull Data Analysis in Excel".
+
+## ORDENAR
+[SORT](sort.pdf)
+
+## FILTRO
+[FILTER](filter.pdf)
+
+## FORMATO CONDICIONAL
+[CONDITIONAL FORMATTING](conditionalformatting.pdf)
+
+## GRÁFICOS
+[CHARTS](charts.pdf)
+
+## TABLAS DINÁMICAS
+[PIVOT TABLES](pivottables.pdf)
+
+## TABLAS
+[TABLES](tables.pdf)
+
+## ANÁLISIS HIPOTÉTICO
+[WHAT-IF ANALYSIS](whatifanalysis.pdf)
+
+## SOLUCIONADOR
+[SOLVER](solver.pdf)
+
+## PAQUETE DE HERRAMIENTAS DE ANÁLISIS 
+[ANALYSIS TOOLPAK](analysistoolpack.pdf)
